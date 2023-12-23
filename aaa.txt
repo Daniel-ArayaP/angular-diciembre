@@ -1,0 +1,92 @@
+
+
+Cuando nos referimos al concepto de habilidad, este se puede definir como lo plantea el MEP(2016)
+
+...capacidades aprendidas por la poblacion estudiantil, que utiliza para enfrentar situaciones problematicas de la vida diaria. Estas se adquieren mediante el aprendizaje de la experiencia directa a traves del modelado o la imitacion, por lo que trasciende la simple transmision de conocimiento, lo cual promueve la vision y formacion integral de las personas, de como apropiarse del conocimiento sistematizado para crear su propio aprendizaje(p.14) 
+
+
+
+
+1 uruguay  y 1 chile 1 mexico
+
+
+
+
+APA 7 
+
+Bordignon, F. & Iglesias, A. (2020). Introducción al pensamiento computacional.. CLACSO. https://elibro-net.eu1.proxy.openathens.net/es/ereader/ulatinacr/131874?page=1
+
+
+
+
+
+
+
+
+
+tabule
+muestre dashboard por sexo
+catalogo tipos de destrezas , minimo un estudiante
+saber con porcentajes cuales son los indicadores
+
+
+catalogo lenguajes de programacion de educacion tecnica
+
+muestre en pantalla dash board. 
+1.cuales son las mayores destrezas
+2 cuales son las no destrezas, para ver donde estan fallando , establecer recursos, estrategias que puedo brindar
+
+1 destreza puede tener muchos estudiantes
+de que forma se puede mejorar las destrezas computacionales?
+
+
+maneja los l
+
+cuentan los 
+
+sitiacion actual-. situacion de como entro
+
+
+
+
+
+tema: en que tienes experiencia
+que conoces mejor que los demas
+
+
+
+
+
+
+contribuir 
+
+
+Motoa (2019), sostiene que:
+
+La inclusión del pensamiento computacional en la educación además de permitir desarrollar habilidades importantes en los estudiantes, permite responder a las necesidades de una sociedad que se encuentra en constantes cambios y contribuye a la solución de los nuevos desafíos del siglo XXI, puesto que el mercado globalizado exige mayor experticia, conocimiento, habilidad y uso eficiente de la tecnología entre otras; razón por la cual la habilidad de aprender a resolver problemas desde el área de la tecnología adquiere con el tiempo mayor valor en los ámbitos educativos. (p. 111).
+
+La globalización, las tecnologías emergentes y la sociedad del conocimiento han hecho que surja un nuevo mercado laboral, por ello se requiere de profesionales que cuenten con competencias que les permitan dar solución a los problemas presentados en el contexto social, económico y productivo en el que se encuentren, a la vez que fortalecen las habilidades para la vida a nivel cognitivo, social y emocional.
+
+Según la investigación realizada por Tellez (2019), las competencias necesarias en los estudiantes para el siglo XXI son: la imaginación, competencias profesionales, aprender a aprender, pensamiento crítico, creatividad e innovación, apropiación de las TIC, uso de las TIC y sus servicios, y Desarrollo del pensamiento computacional. (p. 28). A en cuenta ésta última competencia mencionada, se citan algunas definiciones que permiten dilucidar su importancia.
+
+Adell et al., (2019). cuando definen el pensamiento computacional afirman que:
+
+Wing lo definió como un conjunto de habilidades y destrezas (“herramientas mentales”), habituales en los profesionales de las ciencias de la computación, pero que todos los seres humanos deberían poseer y utilizar para “resolver problemas”, “diseñar sistemas” y, sorprendentemente, “comprender el comportamiento humano”. Por tanto, el PC debería formar parte de la educación de todo ser humano. (p. 172).
+
+Por lo anterior se puede decir que en el ámbito educativo el pensamiento computacional se considera como una habilidad fundamental que se debe desarrollar en los estudiantes desde los primeros niveles de formación, lo cual se puede ampliar con las siguientes definiciones citadas por autores como Aguerrendo, Polanco y Tellez, así:
+
+Darling-Hammond y otros (2008), citados por Aguerrendo (2016), manifiestan que:
+
+El trabajo en equipo y las capacidades comunicativas y sociales son parte integrante de la labor y la vida social en la sociedad del conocimiento. Los estudiantes deben convertirse en aprendices autónomos y a lo largo de toda la vida, especialmente ahora que la educación tiene que preparar a los estudiantes “para empleos que todavía no existen, a utilizar una tecnología que aún no se ha inventado y a resolver problemas que aún no sabemos que son problemas”. (p. 22).
+
+Polanco et al., (2021) afirman que:
+
+La dinámica económica y social en vigencia, permite develar nuevas categorías de empleos que hace unos pocos años atrás, simplemente no existían; hoy en día se evidencia cómo el teletrabajo, la aplicación a trabajos independientes a través de Internet, suscripción a comunidades virtuales, redes sociales y tecnologías en general, mantienen a los usuarios interconectados conjuntamente con las transformaciones del campo y se expone un panorama en el que, especialmente, el conocimiento viene a ser el recurso más valioso de todos.
+
+(…) es imperioso que la demanda laboral de desarrolladores talentosos, se ubique en aquellas personas capaces de conocer y cumplir con los estándares de calidad de los sistemas o productos lógicos, por lo tanto, los pensadores deben contar con destrezas cognitivas que incorporen agudeza en cuanto a la abstracción, generalización y razonamiento lógico, para generar producciones de calidad, reutilizables, que sigan metodologías para el trabajo coordinado, de ágil refactorización y código limpio. La base del pensamiento computacional desde la perspectiva de Wing, reside también en el proceder minucioso y en la rigurosidad de un método científico. (pp. 70-71).
+
+Bordignon y García-Marín (2018), citados por Tellez (2019), sostienen que:
+
+Existe una marcada tendencia por asociar pensamiento computacional con programación, lo que no es correcto, lo que si es cierto es que ambas “constituyen competencias clave que deben ser adquiridas por los jóvenes estudiantes, y cada vez más por los trabajadores, en una amplia gama de actividades industriales y profesionales. (p. 30).
+
+Estos tres autores presentan el pensamiento computacional como la posibilidad de que los estudiantes sean autónomos y aprendan a lo largo de su vida, lo cual permite el desarrollo de competencias para la vida laboral y garantice el éxito en su actividad profesional, ya que el conocimiento es el mejor recurso que un ser humano pueda tener. De ser así, quizá se estaría dando cumplimiento a los propósitos de la sociedad del conocimiento, los cuales son promover la difusión del conocimiento para trasladarlo a todos los ámbitos de la sociedad y que puedan ser utilizados con fines que permitan un mayor desarrollo y progreso.
